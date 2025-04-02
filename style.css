@@ -1,0 +1,9 @@
+h1{color:red}
+.bleu{color:blue}
+.jaune{color:yellow}
+h3{font-size: 70px;
+    text-align: ;} /* centrer_aligner le texte*/
+p{background-color: pink;color: white;/* changer le fond de couleur*/
+ width: 50%; /* largeur de l'écran */
+margin: auto;} /* aligner son tecte au centre*/
+
